@@ -22,6 +22,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="cypressio" alt="cypressio" width="50"/>&nbsp;
 </div>
 
 ### My Stats:
