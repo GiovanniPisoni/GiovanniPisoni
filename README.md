@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javaScript" alt="javaScript" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" alt="php" width="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/angular-original.svg" title="Angular" alt="Angular" width="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angulars/angular-original.svg" title="Angular" alt="Angular" width="50"/>&nbsp;
 </div>
 
 ### My Stats:
