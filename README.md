@@ -29,6 +29,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cypressio/cypressio-original.svg" title="cypressio" alt="cypressio" width="50"/>&nbsp;
 </div>
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg)" title="Latex" alt="Latex" width="50"/>&nbsp;
+</div>
 
 ### My Stats:
 
