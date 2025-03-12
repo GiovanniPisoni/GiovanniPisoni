@@ -1,4 +1,4 @@
-### computer science and engineering student
+### Computer Science and Engineering student
 
 ### Languages and Tools:
 
